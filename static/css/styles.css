@@ -13,6 +13,14 @@ body {
   color: #333;
 }
 
+.fab {
+  padding: 20px;
+}
+.fab {color:black;}
+.fab:visited {color:black;}
+.fab:hover {color:black;}
+.fab:active {color:black;}
+
 .button {
     color: #333 !important;
     text-transform: uppercase;
