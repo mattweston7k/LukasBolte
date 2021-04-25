@@ -93,3 +93,8 @@ body {
 .row-grid + .row-grid {
     margin-top: 0px;
 }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
